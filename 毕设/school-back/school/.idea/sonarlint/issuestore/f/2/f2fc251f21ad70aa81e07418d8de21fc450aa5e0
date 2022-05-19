@@ -1,0 +1,9 @@
+
+…squid:UselessImportCheck"ZRemove this unused import 'com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper'.(îÙ’•8ë¿·—‡/
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8¨æð”‡/
+‰squid:S1488Z"fImmediately return this expression instead of assigning it to the temporary variable "userPageResult".(¡‹ÍŠøÿÿÿÿ8ØÜ½”‡/
+{squid:S1488G"dImmediately return this expression instead of assigning it to the temporary variable "updateResult".(«¡šë
+†squid:S1488A"jImmediately return this expression instead of assigning it to the temporary variable "registerUserResult".(þ˜íÖþÿÿÿÿ
+qsquid:UselessImportCheck"MRemove this unused import 'com.baomidou.mybatisplus.core.conditions.Wrapper'.(ÛÑÐ£
+xsquid:S1488-"aImmediately return this expression instead of assigning it to the temporary variable "loginUser".(“­Žú

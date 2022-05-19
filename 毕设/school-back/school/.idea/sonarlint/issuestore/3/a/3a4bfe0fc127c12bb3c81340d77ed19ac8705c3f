@@ -1,0 +1,7 @@
+
+squid:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ¤ø¾ùÿÿÿÿ
+Xsquid:S3457:"AFormat specifiers should be used instead of string concatenation.(óüŒ
+gsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+Ysquid:S2259:"BA "NullPointerException" could be thrown; "user" is nullable here.(óüŒ
+squid:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İòËíøÿÿÿÿ
